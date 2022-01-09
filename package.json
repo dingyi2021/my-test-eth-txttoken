@@ -1,0 +1,12 @@
+{
+  "name": "my-test-eth-metacoin",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "author": "txt",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "@truffle/hdwallet-provider": "1.7.0"
+  }
+}

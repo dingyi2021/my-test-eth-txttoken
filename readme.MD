@@ -16,6 +16,8 @@ ropsten txtct:
 ```
 golerli txtt:
 0xFFa5c2dc58290f7675C48c2BD60ca6ad04A23684
+testnet.rainbowbridge.app
+testnet.rainbowbridge.app/deploy
 
 Origin network:
 Ethereum
